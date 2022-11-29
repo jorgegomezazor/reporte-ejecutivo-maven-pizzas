@@ -18,4 +18,4 @@ Todos los archivos aportados han de estar en el mismo directorio. El archivo a e
 python pizzas_to_pdf.py
 ```
 ## Output
-Hay un archivo de salida (reporte_ejecutivo) que contiene tanto la predicción de ingredientes, como la tipología de datos de los csv y un análisis de los pedidos.
+Hay un archivo de salida (reporte_ejecutivo.pdf) que contiene tanto la predicción de ingredientes, como la tipología de datos de los csv y un análisis de los pedidos.
