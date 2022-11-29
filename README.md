@@ -1,5 +1,5 @@
 # Reporte Ejecutivo Maven Pizzas
-Predicción semanal de ingredientes en base a datos con datos sucios de una pizzería de 2016 en xml. 
+Predicción semanal de ingredientes en base a datos con datos sucios de una pizzería de 2016 en pdf. 
 Predicción realizada con python 3.9.7 desde Visual Studio Code.
 ## Funcionamiento
 A continuación se explicarán los pasos necesarios para ejecutar correctamente el programa.
