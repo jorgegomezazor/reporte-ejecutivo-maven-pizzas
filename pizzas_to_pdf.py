@@ -2,9 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from fpdf import FPDF
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 def extract(): # Función que extrae los datos
     order_details = pd.read_csv('order_details.csv', encoding='latin1', sep=';') # Leo el archivo order_details.csv
     orders = pd.read_csv('orders.csv', encoding='latin1',sep=';') # Leo el archivo orders.csv
