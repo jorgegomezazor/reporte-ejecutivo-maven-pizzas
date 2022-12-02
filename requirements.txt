@@ -1,4 +1,4 @@
-pandas
-numpy
-fpdf
-matplotlib
+pandas==1.4.1
+numpy==1.22.2
+fpdf==1.7.2
+matplotlib==3.6.0
